@@ -1,6 +1,6 @@
 # set
 
-> Display or set environment variables for the current instance of CMD.
+> test Display or set environment variables for the current instance of CMD.
 > More information: <https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/set>.
 
 - List all current environment variables:
