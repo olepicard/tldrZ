@@ -1,10 +1,8 @@
 # REM
 
-> test instruction REM
+> Test instruction REM.
 > More information: <https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/REM>.
 
-- List all current environment variables:
+- Add comment string in code:
 
 `REM`
-
-- add comment string in code
