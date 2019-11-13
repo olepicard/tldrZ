@@ -1,3 +1,4 @@
+test
 # REM
 
 > Test instruction REM.
