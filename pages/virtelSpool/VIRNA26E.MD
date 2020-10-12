@@ -1,4 +1,4 @@
-# VIRNA26E linename HAS NO PSEUDO TERMINALS: CANNOT CONTINUE
+[VIRNA26E linename HAS NO PSEUDO TERMINALS: CANNOT CONTINUE](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRNA26E#VIRNA26E)
 
 `Module`
 - VIRNATV

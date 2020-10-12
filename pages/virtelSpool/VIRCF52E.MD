@@ -1,4 +1,4 @@
-# VIRCF52E VSAM OPEN ERROR DDNAME=VIRARBO, R15=XXXXXXXX, ACBERFLG=XXXXXXXX VSAM error code opening VIRARBO - RC = 16
+[VIRCF52E VSAM OPEN ERROR DDNAME=VIRARBO, R15=XXXXXXXX, ACBERFLG=XXXXXXXX VSAM error code opening VIRARBO - RC = 16](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRCF52E#VIRCF52E)
 
 `Module`
 - VIRCONF

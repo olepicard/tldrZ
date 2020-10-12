@@ -1,4 +1,4 @@
-# VIRQ904W linename OBJECT socknum HAS MESSAGE OF LENGTH 'hexlen' WAITING
+[VIRQ904W linename OBJECT socknum HAS MESSAGE OF LENGTH 'hexlen' WAITING](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRQ904W#VIRQ904W)
 
 `Module`
 - VIR0Q09

@@ -1,4 +1,4 @@
-# VIRCF47E OPEN FAILED FOR SYSPUNCH DDNAME SYSPUNCH OPEN ERROR - RC = 16
+[VIRCF47E OPEN FAILED FOR SYSPUNCH DDNAME SYSPUNCH OPEN ERROR - RC = 16](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRCF47E#VIRCF47E)
 
 `Module`
 - VIRCONF

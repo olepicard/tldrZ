@@ -1,4 +1,4 @@
-# VIRS126E termid VIRSV APPLICATION ERROR CODE : xxxxxxxx (dddddddd)
+[VIRS126E termid VIRSV APPLICATION ERROR CODE : xxxxxxxx (dddddddd)](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRS126E#VIRS126E)
 
 `Module`
 - VIR0S12

@@ -1,4 +1,4 @@
-# VIRRW51I linename CONNECTING termname
+[VIRRW51I linename CONNECTING termname](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRRW51I#VIRRW51I)
 
 `Module`
 - VIR0RAW

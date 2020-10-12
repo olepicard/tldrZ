@@ -1,4 +1,4 @@
-# VIRPS12I linename RECEIVED ABORT REQUEST FOR termname (partnerid)
+[VIRPS12I linename RECEIVED ABORT REQUEST FOR termname (partnerid)](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRPS12I#VIRPS12I)
 
 `Module`
 - VIRPESIT

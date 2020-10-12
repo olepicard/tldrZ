@@ -1,4 +1,4 @@
-# VIRXO99E termid ERROR errcode SENDING TO SOCKET sockno
+[VIRXO99E termid ERROR errcode SENDING TO SOCKET sockno](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRXO99E#VIRXO99E)
 
 `Module`
 - VIRXOT

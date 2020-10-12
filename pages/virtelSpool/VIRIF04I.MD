@@ -1,4 +1,4 @@
-# VIRIF04I FASTC LINE linename WAS STOPPED
+[VIRIF04I FASTC LINE linename WAS STOPPED](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRIF04I#VIRIF04I)
 
 `Module`
 - VIR00IF

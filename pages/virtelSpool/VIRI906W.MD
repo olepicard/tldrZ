@@ -1,4 +1,4 @@
-# VIRI906W LU luname (n-xxxxxx) INACTIVATED
+[VIRI906W LU luname (n-xxxxxx) INACTIVATED](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRI906W#VIRI906W)
 
 `Module`
 - VIR0I09

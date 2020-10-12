@@ -1,4 +1,4 @@
-# VIRIG12I termid luname CONNECTED TO applname
+[VIRIG12I termid luname CONNECTED TO applname](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRIG12I#VIRIG12I)
 
 `Module`
 - VIR00IG

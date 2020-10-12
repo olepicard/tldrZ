@@ -1,4 +1,4 @@
-# VIRC121E PAGE NOT FOUND FOR termid ENTRY POINT 'epname' DIRECTORY 'tranid'(dirname dirkey) PAGE 'filename' URL'url'
+[VIRC121E PAGE NOT FOUND FOR termid ENTRY POINT 'epname' DIRECTORY 'tranid'(dirname dirkey) PAGE 'filename' URL'url'](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRC121E#VIRC121E)
 
 `Module`
 - VIR0C12

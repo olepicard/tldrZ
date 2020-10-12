@@ -1,4 +1,4 @@
-# VIRSM04I SMTP LINE linename WAS STOPPED
+[VIRSM04I SMTP LINE linename WAS STOPPED](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRSM04I#VIRSM04I)
 
 `Module`
 - VIRSMTP

@@ -1,4 +1,4 @@
-# VIRIPA6E linename PROTOCOL ERROR - SNAP TAKEN
+[VIRIPA6E linename PROTOCOL ERROR - SNAP TAKEN](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRIPA6E#VIRIPA6E)
 
 `Module`
 - VIR0PASS

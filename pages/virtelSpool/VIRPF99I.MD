@@ -1,4 +1,4 @@
-# VIRPF99I linename SEND TO SOCKET socknum
+[VIRPF99I linename SEND TO SOCKET socknum](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRPF99I#VIRPF99I)
 
 `Module`
 - VIR0PRF

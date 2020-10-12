@@ -1,4 +1,4 @@
-# VIRNA99I linename ERROR errcode SENDING TO SOCKET socknum
+[VIRNA99I linename ERROR errcode SENDING TO SOCKET socknum](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRNA99I#VIRNA99I)
 
 `Module`
 - VIRNATV

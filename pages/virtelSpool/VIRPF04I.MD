@@ -1,4 +1,4 @@
-# VIRPF04I LINE linename WAS STOPPED
+[VIRPF04I LINE linename WAS STOPPED](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRPF04I#VIRPF04I)
 
 `Module`
 - VIR0PRF

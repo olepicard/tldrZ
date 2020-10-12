@@ -1,4 +1,4 @@
-# VIRHT55E INVALID RULE rulename ENTRY POINT 'epname'
+[VIRHT55E INVALID RULE rulename ENTRY POINT 'epname'](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRHT55E#VIRHT55E)
 
 `Module`
 - VIRHTTP

@@ -1,4 +1,4 @@
-# VIRIC52I linename DECONNECTING termname
+[VIRIC52I linename DECONNECTING termname](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRIC52I#VIRIC52I)
 
 `Module`
 - VIR0ICON

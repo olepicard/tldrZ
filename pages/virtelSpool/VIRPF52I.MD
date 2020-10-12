@@ -1,4 +1,4 @@
-# VIRPF52I linename DECONNECTING termname
+[VIRPF52I linename DECONNECTING termname](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRPF52I#VIRPF52I)
 
 `Module`
 - VIR0PRF

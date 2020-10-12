@@ -1,4 +1,4 @@
-# VIRNA07I linename (n-xxxxxx) IS USING A GENERIC ADDRESS
+[VIRNA07I linename (n-xxxxxx) IS USING A GENERIC ADDRESS](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRNA07I#VIRNA07I)
 
 `Module`
 - VIRNATV

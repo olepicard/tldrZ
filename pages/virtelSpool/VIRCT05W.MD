@@ -1,4 +1,4 @@
-# VIRCT05W CRYn 'NO-ENCRYPTION' SESSION KEY READY
+[VIRCT05W CRYn 'NO-ENCRYPTION' SESSION KEY READY](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRCT05W#VIRCT05W)
 
 `Module`
 - VIR0CT0

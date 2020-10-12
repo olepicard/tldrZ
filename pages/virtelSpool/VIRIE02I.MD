@@ -1,4 +1,4 @@
-# VIRIE02I termid luname CONNECTED TO applname
+[VIRIE02I termid luname CONNECTED TO applname](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRIE02I#VIRIE02I)
 
 `Module`
 - VIR00IE

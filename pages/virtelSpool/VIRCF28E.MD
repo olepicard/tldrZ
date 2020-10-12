@@ -1,4 +1,4 @@
-# VIRCF28E NOT AUTHORIZED TO UNLOAD PLAINTXT SECURITY (eg RACF) ERROR - RC = 12
+[VIRCF28E NOT AUTHORIZED TO UNLOAD PLAINTXT SECURITY (eg RACF) ERROR - RC = 12](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRCF28E#VIRCF28E)
 
 `Module`
 - VIRCONF

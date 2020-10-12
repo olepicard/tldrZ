@@ -1,4 +1,4 @@
-# VIRIC51I linename CONNECTION STARTING ON termname TO ENTRY POINT 'epname' TRANSACTION 'tranname'
+[VIRIC51I linename CONNECTION STARTING ON termname TO ENTRY POINT 'epname' TRANSACTION 'tranname'](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRIC51I#VIRIC51I)
 
 `Module`
 - VIR0ICON

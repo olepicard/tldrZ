@@ -1,4 +1,4 @@
-# VIRPS02I linename DECONNECTING termname
+[VIRPS02I linename DECONNECTING termname](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRPS02I#VIRPS02I)
 
 `Module`
 - VIRPESIT

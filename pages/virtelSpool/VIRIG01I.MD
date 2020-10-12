@@ -1,4 +1,4 @@
-# VIRIG01I INVERSE GATE INITIALISATION FOR linename (n-xxxxxx)
+[VIRIG01I INVERSE GATE INITIALISATION FOR linename (n-xxxxxx)](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRIG01I#VIRIG01I)
 
 `Module`
 - VIR00IG

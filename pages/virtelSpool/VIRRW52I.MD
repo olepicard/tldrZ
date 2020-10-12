@@ -1,4 +1,4 @@
-# VIRRW52I linename DECONNECTING termname
+[VIRRW52I linename DECONNECTING termname](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRRW52I#VIRRW52I)
 
 `Module`
 - VIR0RAW

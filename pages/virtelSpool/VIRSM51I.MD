@@ -1,4 +1,4 @@
-# VIRSM51I linename CONNECTING termname
+[VIRSM51I linename CONNECTING termname](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRSM51I#VIRSM51I)
 
 `Module`
 - VIRSMTP

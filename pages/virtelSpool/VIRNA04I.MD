@@ -1,4 +1,4 @@
-# VIRNA04I NATIVE IP LINE linename WAS STOPPED
+[VIRNA04I NATIVE IP LINE linename WAS STOPPED](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRNA04I#VIRNA04I)
 
 `Module`
 - VIRNATV

@@ -1,4 +1,4 @@
-# VIRB904W linename PROCESSING .GET|.POST|.RAW|.END|.EOJ COMMAND
+[VIRB904W linename PROCESSING .GET|.POST|.RAW|.END|.EOJ COMMAND](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRB904W#VIRB904W)
 
 `Module`
 - VIR0B09

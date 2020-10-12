@@ -1,4 +1,4 @@
-# VIRIE03I termid luname DISCONNECTED BY applname
+[VIRIE03I termid luname DISCONNECTED BY applname](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRIE03I#VIRIE03I)
 
 `Module`
 - VIR00IE

@@ -1,4 +1,4 @@
-# VIRSM27E linename IS REJECTED AT ENTRY POINT epname
+[VIRSM27E linename IS REJECTED AT ENTRY POINT epname](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRSM27E#VIRSM27E)
 
 `Module`
 - VIRSMTP

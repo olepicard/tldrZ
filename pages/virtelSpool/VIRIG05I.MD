@@ -1,4 +1,4 @@
-# VIRIG05I n-xxxxxx(linename) LOCAL LU NAME CHANGED FROM oldlu TO newlu
+[VIRIG05I n-xxxxxx(linename) LOCAL LU NAME CHANGED FROM oldlu TO newlu](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRIG05I#VIRIG05I)
 
 `Module`
 - VIR00IG

@@ -1,4 +1,4 @@
-# VIRB177I LINE linename (n-xxxxxx) IS WAITING FOR m-yyyyyy ACTIVATION
+[VIRB177I LINE linename (n-xxxxxx) IS WAITING FOR m-yyyyyy ACTIVATION](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRB177I#VIRB177I)
 
 `Module`
 - VIR0B17

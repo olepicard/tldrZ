@@ -1,4 +1,4 @@
-# VIRPF55E INVALID RULE rulename ENTRY POINT 'epname'
+[VIRPF55E INVALID RULE rulename ENTRY POINT 'epname'](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRPF55E#VIRPF55E)
 
 `Module`
 - VIR0PRF

@@ -1,4 +1,4 @@
-# VIRPF51I linename CONNECTING termname
+[VIRPF51I linename CONNECTING termname](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRPF51I#VIRPF51I)
 
 `Module`
 - VIR0PRF

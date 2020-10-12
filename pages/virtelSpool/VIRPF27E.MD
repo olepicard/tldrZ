@@ -1,4 +1,4 @@
-# VIRPF27E linename IS REJECTED AT ENTRY POINT epname
+[VIRPF27E linename IS REJECTED AT ENTRY POINT epname](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRPF27E#VIRPF27E)
 
 `Module`
 - VIR0PRF

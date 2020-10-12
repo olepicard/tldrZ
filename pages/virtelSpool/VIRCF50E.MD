@@ -1,4 +1,4 @@
-# VIRCF50E OPEN FAILED FOR SYSIN DDNAME SYSPIN OPEN ERROR - RC = 16
+[VIRCF50E OPEN FAILED FOR SYSIN DDNAME SYSPIN OPEN ERROR - RC = 16](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRCF50E#VIRCF50E)
 
 `Module`
 - VIRCONF

@@ -1,4 +1,4 @@
-# VIRIC29I linename HAS NO MORE PSEUDO TERMINALS
+[VIRIC29I linename HAS NO MORE PSEUDO TERMINALS](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRIC29I#VIRIC29I)
 
 `Module`
 - VIR0ICON

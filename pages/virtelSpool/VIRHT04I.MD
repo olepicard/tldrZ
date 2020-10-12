@@ -1,4 +1,4 @@
-# VIRHT04I HTTP LINE linename WAS STOPPED
+[VIRHT04I HTTP LINE linename WAS STOPPED](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRHT04I#VIRHT04I)
 
 `Module`
 - VIRHTTP

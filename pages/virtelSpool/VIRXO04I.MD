@@ -1,4 +1,4 @@
-# VIRXO04I XOT LINE linename WAS STOPPED
+[VIRXO04I XOT LINE linename WAS STOPPED](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRXO04I#VIRXO04I)
 
 `Module`
 - VIRXOT

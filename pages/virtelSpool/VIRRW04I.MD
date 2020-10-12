@@ -1,4 +1,4 @@
-# VIRRW04I LINE linename WAS STOPPED
+[VIRRW04I LINE linename WAS STOPPED](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRRW04I#VIRRW04I)
 
 `Module`
 - VIR0RAW

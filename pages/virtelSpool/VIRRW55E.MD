@@ -1,4 +1,4 @@
-# VIRRW55E INVALID RULE rulename ENTRY POINT 'epname'
+[VIRRW55E INVALID RULE rulename ENTRY POINT 'epname'](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRRW55E#VIRRW55E)
 
 `Module`
 - VIR0RAW

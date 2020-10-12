@@ -1,4 +1,4 @@
-# VIRNA28I linename CALLER ipaddr:port GETS ENTRY POINT 'epname' FROM RULE 'rulename'
+[VIRNA28I linename CALLER ipaddr:port GETS ENTRY POINT 'epname' FROM RULE 'rulename'](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRNA28I#VIRNA28I)
 
 `Module`
 - VIRNATV

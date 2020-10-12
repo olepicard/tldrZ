@@ -1,4 +1,4 @@
-# VIRB179E ERROR ON: luname ALLOCATING 64 BITS STORAGE - RETCODE: xxxxxxxx - REASON CODE: xxxxxxxx
+[VIRB179E ERROR ON: luname ALLOCATING 64 BITS STORAGE - RETCODE: xxxxxxxx - REASON CODE: xxxxxxxx](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRB179E#VIRB179E)
 
 `Module`
 - VIR0B17

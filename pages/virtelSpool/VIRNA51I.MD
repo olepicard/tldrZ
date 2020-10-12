@@ -1,4 +1,4 @@
-# VIRNA51I linename CONNECTING termname
+[VIRNA51I linename CONNECTING termname](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRNA51I#VIRNA51I)
 
 `Module`
 - VIRNATV

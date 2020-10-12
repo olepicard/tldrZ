@@ -1,4 +1,4 @@
-# VIRIC55E INVALID RULE rulename ENTRY POINT 'epname'
+[VIRIC55E INVALID RULE rulename ENTRY POINT 'epname'](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRIC55E#VIRIC55E)
 
 `Module`
 - VIR0ICON

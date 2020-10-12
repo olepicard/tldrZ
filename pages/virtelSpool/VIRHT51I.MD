@@ -1,4 +1,4 @@
-# VIRHT51I linename CONNECTING termname TO ipaddr:port
+[VIRHT51I linename CONNECTING termname TO ipaddr:port](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRHT51I#VIRHT51I)
 
 `Module`
 - VIRHTTP

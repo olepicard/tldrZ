@@ -1,4 +1,4 @@
-# VIRXO06I linename (n-xxxxxx) IS USING A GENERIC ADDRESS
+[VIRXO06I linename (n-xxxxxx) IS USING A GENERIC ADDRESS](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRXO06I#VIRXO06I)
 
 `Module`
 - VIRXOT

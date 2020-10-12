@@ -1,4 +1,4 @@
-# VIRHT29E n-xxxxxx DEFAULT ENTRY POINT MISSING OR INVALID
+[VIRHT29E n-xxxxxx DEFAULT ENTRY POINT MISSING OR INVALID](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRHT29E#VIRHT29E)
 
 `Module`
 - VIRHTTP

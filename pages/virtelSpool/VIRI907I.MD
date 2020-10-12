@@ -1,4 +1,4 @@
-# VIRI907I luname(termid) REJECTED BIND FROM applname
+[VIRI907I luname(termid) REJECTED BIND FROM applname](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRI907I#VIRI907I)
 
 `Module`
 - VIR0I09

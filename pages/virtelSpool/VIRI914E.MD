@@ -1,4 +1,4 @@
-# VIRI914E termid ERROR R15=xx R0=yy CONNECTING luname TO applid
+[VIRI914E termid ERROR R15=xx R0=yy CONNECTING luname TO applid](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRI914E#VIRI914E)
 
 `Module`
 - VIR0I09

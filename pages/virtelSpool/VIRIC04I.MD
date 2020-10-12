@@ -1,4 +1,4 @@
-# VIRIC04I LINE linename WAS STOPPED
+[VIRIC04I LINE linename WAS STOPPED](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRIC04I#VIRIC04I)
 
 `Module`
 - VIR0ICON

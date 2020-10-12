@@ -1,4 +1,4 @@
-# VIRXO98E termid ERROR errcode RECEIVING FROM SOCKET sockno
+[VIRXO98E termid ERROR errcode RECEIVING FROM SOCKET sockno](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRXO98E#VIRXO98E)
 
 `Module`
 - VIRXOT

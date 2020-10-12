@@ -1,4 +1,4 @@
-# VIRNA27E linename IS REJECTED AT ENTRY POINT epname
+[VIRNA27E linename IS REJECTED AT ENTRY POINT epname](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRNA27E#VIRNA27E)
 
 `Module`
 - VIRNATV

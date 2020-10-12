@@ -1,4 +1,4 @@
-# VIRI911I luname(termid) REQUESTING SESSION WITH applname
+[VIRI911I luname(termid) REQUESTING SESSION WITH applname](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRI911I#VIRI911I)
 
 `Module`
 - VIR0I09

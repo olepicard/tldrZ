@@ -1,4 +1,4 @@
-# VIRT922W linename SOCKET socknum ENDED FOR ipaddr:port
+[VIRT922W linename SOCKET socknum ENDED FOR ipaddr:port](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRT922W#VIRT922W)
 
 `Module`
 - VIR0T09

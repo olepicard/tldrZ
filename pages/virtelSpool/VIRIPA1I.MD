@@ -1,4 +1,4 @@
-# VIRIPA1I linename CONNECTING termid
+[VIRIPA1I linename CONNECTING termid](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRIPA1I#VIRIPA1I)
 
 `Module`
 - VIR0PASS

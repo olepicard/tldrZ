@@ -1,4 +1,4 @@
-# VIRXO51I termid CALLING x25callednumber VIA ROUTER ipaddr:port
+[VIRXO51I termid CALLING x25callednumber VIA ROUTER ipaddr:port](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRXO51I#VIRXO51I)
 
 `Module`
 - VIRXOT

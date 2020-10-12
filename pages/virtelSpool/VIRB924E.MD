@@ -1,4 +1,4 @@
-# VIRB924E termid OBJECT|PARAM nnnnnnnn REQ type COMPLETION CODE code REASON CODE xxxxxxxx (dddddddd) LINE linename
+[VIRB924E termid OBJECT|PARAM nnnnnnnn REQ type COMPLETION CODE code REASON CODE xxxxxxxx (dddddddd) LINE linename](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRB924E#VIRB924E)
 
 `Module`
 - VIR0B09

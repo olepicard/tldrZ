@@ -1,4 +1,4 @@
-# VIRS123W termid ERROR LOADING SCENARIO modname IN ENTRY POINT epname
+[VIRS123W termid ERROR LOADING SCENARIO modname IN ENTRY POINT epname](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRS123W#VIRS123W)
 
 `Module`
 - VIR0S12

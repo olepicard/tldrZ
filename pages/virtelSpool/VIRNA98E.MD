@@ -1,4 +1,4 @@
-# VIRNA98E linename ERROR errcode RECEIVING FROM SOCKET sockno
+[VIRNA98E linename ERROR errcode RECEIVING FROM SOCKET sockno](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRNA98E#VIRNA98E)
 
 `Module`
 - VIRNATV

@@ -1,4 +1,4 @@
-# VIRT918S NO MORE OSCORE AVAILABLE
+[VIRT918S NO MORE OSCORE AVAILABLE](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRT918S#VIRT918S)
 
 `Module`
 - VIR0T09

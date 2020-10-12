@@ -1,4 +1,4 @@
-# VIRNA52I linename DECONNECTING termname
+[VIRNA52I linename DECONNECTING termname](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRNA52I#VIRNA52I)
 
 `Module`
 - VIRNATV

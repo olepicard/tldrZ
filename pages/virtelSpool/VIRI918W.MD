@@ -1,4 +1,4 @@
-# VIRI918W RELAY luname(termid) INACTIVATED
+[VIRI918W RELAY luname(termid) INACTIVATED](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRI918W#VIRI918W)
 
 `Module`
 - VIR0I09

@@ -1,4 +1,4 @@
-# VIRIC28I linename CALLER ipaddr:port GETS ENTRY POINT 'epname' FROM RULE 'rulename'
+[VIRIC28I linename CALLER ipaddr:port GETS ENTRY POINT 'epname' FROM RULE 'rulename'](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRIC28I#VIRIC28I)
 
 `Module`
 - VIR0ICON

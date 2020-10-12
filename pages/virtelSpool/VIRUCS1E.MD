@@ -1,4 +1,4 @@
-# VIRUCS1E termid COULD NOT FIND TRANSLATION TABLE tablename
+[VIRUCS1E termid COULD NOT FIND TRANSLATION TABLE tablename](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRUCS1E#VIRUCS1E)
 
 `Module`
 - VIR0UCS

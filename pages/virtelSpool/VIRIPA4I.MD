@@ -1,4 +1,4 @@
-# VIRIPA4I linename NO OUTPUT LINE FOUND FOR termid
+[VIRIPA4I linename NO OUTPUT LINE FOUND FOR termid](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRIPA4I#VIRIPA4I)
 
 `Module`
 - VIR0PASS

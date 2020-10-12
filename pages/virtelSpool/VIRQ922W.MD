@@ -1,4 +1,4 @@
-# VIRQ922W linename ENDING OBJECT socknum FOR mqmname
+[VIRQ922W linename ENDING OBJECT socknum FOR mqmname](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRQ922W#VIRQ922W)
 
 `Module`
 - VIR0Q09

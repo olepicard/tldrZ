@@ -1,4 +1,4 @@
-# VIRIC56W linename IS REQUESTING CLOSE
+[VIRIC56W linename IS REQUESTING CLOSE](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRIC56W#VIRIC56W)
 
 `Module`
 - VIR0ICON

@@ -1,4 +1,4 @@
-# VIRIG04I n-xxxxxx GATE LINE linename WAS STOPPED
+[VIRIG04I n-xxxxxx GATE LINE linename WAS STOPPED](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRIG04I#VIRIG04I)
 
 `Module`
 - VIR00IG

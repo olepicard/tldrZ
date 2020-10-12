@@ -1,4 +1,4 @@
-# VIRB174I LINE linename (n-xxxxxx) STARTUP IS PASSIVE
+[VIRB174I LINE linename (n-xxxxxx) STARTUP IS PASSIVE](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRB174I#VIRB174I)
 
 `Module`
 - VIR0B17

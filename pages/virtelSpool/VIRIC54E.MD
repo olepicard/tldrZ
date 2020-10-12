@@ -1,4 +1,4 @@
-# VIRIC54E linename IMS STATUS ERROR 'retcode' REASON 'reascode' text
+[VIRIC54E linename IMS STATUS ERROR 'retcode' REASON 'reascode' text](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRIC54E#VIRIC54E)
 
 `Module`
 - VIR0ICON

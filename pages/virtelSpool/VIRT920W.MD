@@ -1,4 +1,4 @@
-# VIRT920W TCP SESSION LOST FOR LU linename
+[VIRT920W TCP SESSION LOST FOR LU linename](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRT920W#VIRT920W)
 
 `Module`
 - VIR0T09

@@ -1,4 +1,4 @@
-# VIRPS14I linename INBOUND CONNECTION STARTING ON termname TO ENTRY POINT 'epname' TRANSACTION 'tranid' | linename CLIENT ''requesterid' SERVER 'serverid' PROTOCOL 'protocol'
+[VIRPS14I linename INBOUND CONNECTION STARTING ON termname TO ENTRY POINT 'epname' TRANSACTION 'tranid' | linename CLIENT ''requesterid' SERVER 'serverid' PROTOCOL 'protocol'](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRPS14I#VIRPS14I)
 
 `Module`
 - VIRPESIT

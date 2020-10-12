@@ -1,4 +1,4 @@
-# VIRIPA2I linename DECONNECTING termid
+[VIRIPA2I linename DECONNECTING termid](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRIPA2I#VIRIPA2I)
 
 `Module`
 - VIR0PASS

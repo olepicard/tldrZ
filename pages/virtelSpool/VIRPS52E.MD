@@ -1,4 +1,4 @@
-# VIRPS52E linename ENTRY POINT 'epname' WAS NOT FOUND
+[VIRPS52E linename ENTRY POINT 'epname' WAS NOT FOUND](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRPS52E#VIRPS52E)
 
 `Module`
 - VIRPESIT

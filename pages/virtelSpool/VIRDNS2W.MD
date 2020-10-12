@@ -1,4 +1,4 @@
-# VIRDNS2W: XXXX DNS SUBTASK VIRTDNX1 STARTED
+[VIRDNS2W: XXXX DNS SUBTASK VIRTDNX1 STARTED](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRDNS2W#VIRDNS2W)
 
 `Module`
 - VIRDNS1

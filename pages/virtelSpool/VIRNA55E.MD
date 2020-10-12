@@ -1,4 +1,4 @@
-# VIRNA55E INVALID RULE rulename ENTRY POINT 'epname'
+[VIRNA55E INVALID RULE rulename ENTRY POINT 'epname'](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRNA55E#VIRNA55E)
 
 `Module`
 - VIRNATV

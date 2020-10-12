@@ -1,4 +1,4 @@
-# VIRIPA7I linename HAS NO MORE PSEUDO TERMINALS
+[VIRIPA7I linename HAS NO MORE PSEUDO TERMINALS](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRIPA7I#VIRIPA7I)
 
 `Module`
 - VIR0PASS

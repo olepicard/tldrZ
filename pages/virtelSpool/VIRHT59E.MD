@@ -1,4 +1,4 @@
-# VIRHT59E LINE linename IS NOT OPEN: CANNOT CONNECT termid
+[VIRHT59E LINE linename IS NOT OPEN: CANNOT CONNECT termid](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRHT59E#VIRHT59E)
 
 `Module`
 - VIRHTTP

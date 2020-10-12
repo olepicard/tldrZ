@@ -1,4 +1,4 @@
-# VIRIG42I n-xxxxxx(linename) RECEIVED UNSUPPORTED COMMAND xx FROM applname ON MCH luname
+[VIRIG42I n-xxxxxx(linename) RECEIVED UNSUPPORTED COMMAND xx FROM applname ON MCH luname](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRIG42I#VIRIG42I)
 
 `Module`
 - VIR00IG

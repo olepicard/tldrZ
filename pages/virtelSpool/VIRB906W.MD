@@ -1,4 +1,4 @@
-# VIRB906W LINE x-nnnnnn CLOSING indd AND outdd
+[VIRB906W LINE x-nnnnnn CLOSING indd AND outdd](https://virtel.readthedocs.io/en/latest/manuals/virtel/Virtel459MG/messages.html?highlight=VIRB906W#VIRB906W)
 
 `Module`
 - VIR0B09
