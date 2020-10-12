@@ -1,7 +1,10 @@
 # VIRIE03I termid luname DISCONNECTED BY applname
+
 `Module`
 - VIR00IE
+
 `Meaning`
 - Partner application applname has terminated its SNA session with the relay LU luname associated with the AntiPCNE terminal termid.
+
 `Action`
 - None.
